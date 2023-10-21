@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @blessingkay3
 - 👀 I’m interested in Software engineering
 
-- 🌱 I’m currently learning coding and programming
-- 💞️ I’m looking to collaborate on great projects, i suppose
+- 🌱 
+- 💞️ 
 - 📫 How to reach me blessingkoleoso@gmail.com
 
 <!---
